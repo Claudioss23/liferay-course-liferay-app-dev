@@ -1,0 +1,1 @@
+frontendTokenDefinitionJSON: src/frontend-token-definition.json
