@@ -1,0 +1,10 @@
+body::before {
+  color: #0054f0;
+  content: 'Clarity Global CSS Sample';
+  display: block;
+  margin-left: 2rem;
+}
+a {
+  font-size: 18px !important;
+  font-weight: normal !important;
+}
